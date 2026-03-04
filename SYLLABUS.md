@@ -185,7 +185,7 @@
 - Greedy Algorithms
 - Tries
 
-### Advanced concepts apart from interviews 
+### Advanced concepts apart from interviews
 - Bitwise + DP
 - Extended Euclidean algorithm
 - Modulo Multiplicative Inverse
