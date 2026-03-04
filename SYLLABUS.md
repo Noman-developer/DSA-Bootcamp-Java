@@ -150,7 +150,7 @@
     - Interval problems
 - HashMap
     - Introduction
-    - Theory - how it works
+    - Theory - how it works 
     - Comparisons of various forms
     - Limitations and how to solve
     - Map using LinkedList
